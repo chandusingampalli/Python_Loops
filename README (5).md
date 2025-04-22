@@ -37,4 +37,4 @@
 
 Enjoy coding!
 
-By Kota Sreedhar Reddy
+By Singampalli Yuva Chandrakanth
